@@ -1,6 +1,7 @@
-run_code_inside = true
-puts "Code before if...emd
-if run_code_inside
-  puts "code inside"
+def greeting
+    puts "Hello World!"
 end
-puts "Code after if...end"
+
+puts greeting
+  
+  
